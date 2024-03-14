@@ -1,6 +1,3 @@
-
-Certainly! Below is an example project description for a portfolio:
-
 Project Description: Portfolio Website
 
 Overview:
